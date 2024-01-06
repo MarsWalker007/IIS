@@ -13,3 +13,12 @@
 
 -  [Arduino IDE](https://www.arduino.cc/en/software)
 
+## Схема проекта
+
+Подключение микроконтроллера Raspberry Pi Pico WiFi и помпы представлено на схеме:
+
+<p align="center">
+ <img width="400px" src="/Image/Scheme.png" alt="qr"/>
+</p>
+
+
