@@ -25,7 +25,7 @@
 
 ## Схема проекта
 
-Подключение микроконтроллера Raspberry Pi Pico WiFi и помпы представлено на схеме:
+Подключение микроконтроллера Raspberry Pi Pico WiFi и комплектующих представлено на схеме:
 
 <p align="center">
  <img width="400px" src="/Image/Scheme.png"/>
