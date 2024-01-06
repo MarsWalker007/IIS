@@ -27,7 +27,7 @@
 После входа на сайт создаем новое устройство.
 
 <p align="center">
- <img width="600px" src="/Image/create.jpg"/>
+ <img width="800px" src="/Image/create.jpg"/>
 </p>
 
 Далее нужно заполнить все обязательные поля.
