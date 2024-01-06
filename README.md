@@ -10,5 +10,5 @@
 <p align="center">
  <img width="400px" src="/Image/pompa.jpg" alt="qr"/>
 </p>
-- .[Arduino IDE](https://www.arduino.cc/en/software)
+-  [Помпа](https://lrob.ru/image/cache/catalog/arduino2/46561_1-800x800.jpg)
 
