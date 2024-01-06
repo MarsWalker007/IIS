@@ -67,7 +67,11 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
  <img width="600px" src="/Image/url.jpg"/>
 </p>
 
-После этого вставляем код в Arduino IDE из папки Code/AutomaticWatering.cpp.
+После этого вставляем код в Arduino IDE из папки Code/AutomaticWatering.cpp.Дальше нужно выбрать плату в "Tools", затем "Board" и найти Raspberry Pi Pico W
+
+<p align="center">
+ <img width="600px" src="/Image/PicoW.jpg"/>
+</p>
 
 ## Настройка умного дома с Алисой
 
