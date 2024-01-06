@@ -33,13 +33,13 @@
 Далее нужно заполнить все обязательные поля.
 
 <p align="center">
- <img width="600px" src="/pic/settings.jpg"/>
+ <img width="600px" src="/Image/settings.jpg"/>
 </p>
 
 После настройки устройства настраиваем профиль для подключения к Dealgate. 
 
 <p align="center">
- <img width="600px" src="/pic/dealgate-profile.jpg"/>
+ <img width="600px" src="/Image/profile.jpg"/>
 </p>
 
 
