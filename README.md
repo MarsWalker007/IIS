@@ -27,19 +27,19 @@
 После входа на сайт создаем новое устройство.
 
 <p align="center">
- <img width="600px" src="/pic/create.png"/>
+ <img width="600px" src="/pic/create.jpg"/>
 </p>
 
 Далее нужно заполнить все обязательные поля.
 
 <p align="center">
- <img width="600px" src="/pic/settings.png"/>
+ <img width="600px" src="/pic/settings.jpg"/>
 </p>
 
 После настройки устройства настраиваем профиль для подключения к Dealgate. 
 
 <p align="center">
- <img width="600px" src="/pic/dealgate-profile.png"/>
+ <img width="600px" src="/pic/dealgate-profile.jpg"/>
 </p>
 
 
