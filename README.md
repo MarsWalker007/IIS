@@ -73,6 +73,8 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
  <img width="600px" src="/Image/PicoW.jpg"/>
 </p>
 
+Далее нажимаем "Upload" и загружаем код на плату.
+
 ## Настройка умного дома с Алисой
 
 
