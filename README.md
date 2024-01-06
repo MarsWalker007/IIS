@@ -47,11 +47,15 @@
 
 ## Загрузка прошивки
 
-Для загрузки прошивки открываем Arduino IDE и в панели выбираем "File", затем нажимаем "Preferences" и вставляем ссылку
+Для загрузки прошивки открываем Arduino IDE и в панели выбираем "File", затем нажимаем "Preferences" и вставляем ссылку:
 
 ```
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 ```
+
+<p align="center">
+ <img width="600px" src="/Image/url.jpg"/>
+</p>
 
 ## Настройка умного дома с Алисой
 
