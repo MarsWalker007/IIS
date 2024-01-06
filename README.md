@@ -79,10 +79,10 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 
 ## Настройка умного дома с Алисой
 
-Открываем "Умный дом", ищем Dealgate и добавляем аккаунт.
+Открываем "Умный дом"
 
 <p align="center">
- <img width="600px" src="/Image/DealgateHome.jpg"/>
+ <img width="600px" src="/Image/Home.jpg"/>
 </p>
 
 Теперь нам показываются устройства, нужно только выставить настройки.
