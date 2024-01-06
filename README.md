@@ -47,7 +47,7 @@
 
 ## Загрузка прошивки
 
-Для загрузки прошивки открываем Arduino IDE и в панели выбираем "File", затем нажимаем "Preferences" и вставляем ссылку:
+Для загрузки прошивки открываем Arduino IDE и в панели выбираем "File", затем нажимаем "Preferences", вставляем ссылку и нажимаем OK:
 
 ```
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
