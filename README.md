@@ -6,7 +6,7 @@
 Необходимы следующие комплектующие:
 
 - Микроконтролер [Raspberry Pi Pico WiFi](https://aliexpress.ru/item/1005002312427284.html?sku_id=12000029980957099&spm=.search_results.0.1ba7654dxgWAPP)
--  [Помпа](https://lrob.ru/image/cache/catalog/arduino2/46561_1-800x800.jpg)
+-  Помпа
 <p align="center">
  <img width="400px" src="/Image/pompa.jpg" alt="qr"/>
 </p>
