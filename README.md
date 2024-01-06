@@ -82,7 +82,13 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 Открываем "Умный дом"
 
 <p align="center">
- <img width="600px" src="/Image/Home.jpg"/>
+ <img width="300px" src="/Image/Home.jpg"/>
+</p>
+
+Нажием на плюс и ищем Dealgate.
+
+<p align="center">
+ <img width="300px" src="/Image/DealgateHome.jpg"/>
 </p>
 
 Теперь нам показываются устройства, нужно только выставить настройки.
