@@ -85,10 +85,16 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
  <img width="300px" src="/Image/Home.jpg"/>
 </p>
 
-Нажием на плюс и ищем Dealgate.
+Нажимаем на плюс и выбираем Dealgate.
 
 <p align="center">
  <img width="300px" src="/Image/DealgateHome.jpg"/>
+</p>
+
+С помощью инструкции добавляем аккаунт Dealgate.
+
+<p align="center">
+ <img width="300px" src="/Image/DealgateAdd.jpg"/>
 </p>
 
 Теперь нам показываются устройства, нужно только выставить настройки.
