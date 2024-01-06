@@ -1,7 +1,7 @@
 # IIS
-Проект автоматизированного полива растений с помощью микроконтроллера ESP32 с использованием брокера сообщений [Dealgate](https://dealgate.ru/) и [Алисы](https://yandex.ru/alice).
+Проект автоматизированного полива растений с помощью микроконтроллера  Raspberry Pi Pico использованием брокера сообщений [Dealgate](https://dealgate.ru/) и [Алисы](https://yandex.ru/alice).
 
-## Необходимое ПО
+## Необходимое оборудование и ПО
 
 Необходимы следующие комплектующие:
 
@@ -20,6 +20,8 @@
 <p align="center">
  <img width="400px" src="/Image/water.jpg" alt="qr"/>
 </p>
+
+Необходимы следующие ПО:
 
 -  [Arduino IDE](https://www.arduino.cc/en/software)
 
