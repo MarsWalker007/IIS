@@ -11,6 +11,16 @@
  <img width="400px" src="/Image/pompa.jpg" alt="qr"/>
 </p>
 
+-  Датчик влажности почвы
+<p align="center">
+ <img width="400px" src="/Image/earth.jpg" alt="qr"/>
+</p>
+
+-  Датчик уровня воды
+<p align="center">
+ <img width="400px" src="/Image/water.jpg" alt="qr"/>
+</p>
+
 -  [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Схема проекта
@@ -56,6 +66,8 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 <p align="center">
  <img width="600px" src="/Image/url.jpg"/>
 </p>
+
+После этого вставляем код в Arduino IDE из папки Code/AutomaticWatering.cpp.
 
 ## Настройка умного дома с Алисой
 
