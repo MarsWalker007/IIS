@@ -36,6 +36,13 @@
  <img width="600px" src="/pic/settings.png"/>
 </p>
 
+После настройки устройства настраиваем профиль для подключения к Dealgate. 
+
+<p align="center">
+ <img width="600px" src="/pic/dealgate-profile.png"/>
+</p>
+
+
 
 
 ## Загрузка прошивки
