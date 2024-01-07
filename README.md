@@ -1,5 +1,5 @@
 # IIS
-Проект автоматизированного полива растений с помощью микроконтроллера  Raspberry Pi Pico c  использованием брокера сообщений [Dealgate](https://dealgate.ru/) и [Алисы](https://yandex.ru/alice).
+Проект автоматизированного полива растений на базе микроконтроллера Raspberry Pi Pico c использованием облачного MQTT брокера [Dealgate](https://dealgate.ru/) и умного дома с [Алисой](https://yandex.ru/alice).
 
 ## Необходимое оборудование и ПО
 
@@ -70,15 +70,15 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 
 После настройки устройства настраиваем профиль для подключения к Dealgate.
 
-## Настройка умного дома с Алисой
+## Настройка в приложении "Умный дом" от Яндекс 
 
-Открываем "Умный дом"
+Открываем приложение "Умный дом"
 
 <p align="center">
  <img width="300px" src="/Image/Home.jpg"/>
 </p>
 
-Нажимаем на плюс и выбираем Dealgate.
+Нажимаем на плюс в верхнем правом углу и в списке выбираем Dealgate.
 
 <p align="center">
  <img width="300px" src="/Image/DealgateHome.jpg"/>
