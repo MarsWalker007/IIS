@@ -42,7 +42,7 @@
  <img width="800px" src="/Image/create.jpg"/>
 </p>
 
-Далее нужно заполнить все обязательные поля.
+Далее нужно заполнить все обязательные поля и настроить умения.
 
 <p align="center">
  <img width="600px" src="/Image/settings.jpg"/>
