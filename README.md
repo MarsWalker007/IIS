@@ -97,7 +97,7 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 Теперь нам показываются устройства, нужно только выставить настройки.
 
 <p align="center">
- <img width="600px" src="/Image/SettingHome.jpg"/>
+ <img width="600px" src="/Image/DealgateSettings.jpg"/>
 </p>
 
 
