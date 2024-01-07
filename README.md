@@ -1,5 +1,5 @@
 # IIS
-Проект автоматизированного полива растений с помощью микроконтроллера  Raspberry Pi Pico использованием брокера сообщений [Dealgate](https://dealgate.ru/) и [Алисы](https://yandex.ru/alice).
+Проект автоматизированного полива растений с помощью микроконтроллера  Raspberry Pi Pico c  использованием брокера сообщений [Dealgate](https://dealgate.ru/) и [Алисы](https://yandex.ru/alice).
 
 ## Необходимое оборудование и ПО
 
@@ -66,7 +66,7 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
  <img width="600px" src="/Image/url.jpg"/>
 </p>
 
-После этого вставляем код в Arduino IDE из папки Code/AutomaticWatering.cpp.Дальше нужно выбрать плату в "Tools", затем "Board" и найти Raspberry Pi Pico W
+После этого вставляем код в Arduino IDE из папки Code/AutomaticWatering.cpp.Дальше нужно выбрать плату в "Tools", затем "Board" и найти Raspberry Pi Pico W.
 
 <p align="center">
  <img width="600px" src="/Image/PicoW.jpg"/>
